@@ -32,7 +32,6 @@ Prazer, Audrey Camargo!
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   </a>
-   </div>
     
   
   <h1 align="center">Redes Sociais</h1>
@@ -45,6 +44,7 @@ Prazer, Audrey Camargo!
     <a href = "https://www.instagram.com/ady_kamargo/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Seu instagram">
     </a>
+    </div>
 </div>
 
 
